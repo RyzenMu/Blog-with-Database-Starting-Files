@@ -21,7 +21,7 @@ const addContent = mongoose.model('addContent', addContentSchema);
 // Content constants
 const homeStartingContent = "This is a home page";
 const aboutContent = "This is an about page";
-const contactContent = "This is a contact page";
+const contactContent = "This is a contact page..";
 
 const app = express();
 
